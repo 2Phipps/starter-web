@@ -1,2 +1,3 @@
 Adding git ignore file to exclude unwanted files
 log/
+*.orig
